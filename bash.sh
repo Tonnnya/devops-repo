@@ -1,5 +1,6 @@
 #!/bin/bash 
-echo "Antonina Smetanina"
+echo 'The practice started"
+echo "Antonina"
 COUNTER=0 
 while [ $COUNTER -lt 10 ] 
 do 
